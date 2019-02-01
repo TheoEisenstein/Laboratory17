@@ -1,0 +1,3 @@
+Banana,99
+Blue,42
+Bingo,90
